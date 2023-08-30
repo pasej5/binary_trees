@@ -6,7 +6,7 @@
  * @func: Pointer to a function to call for each node.
  *
  * This function traverses the binary tree using in-order traversal,
- * where the left subtree is visited, then the current node, and finally the right subtree.
+ * where the left subtree is visited, then the current node
  * The value in each node is passed as a parameter to the given function.
  * If tree or func is NULL, do nothing.
  */
